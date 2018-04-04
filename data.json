@@ -1,0 +1,45 @@
+{
+   "career":{
+           "info":"inner peace"
+   },
+   "education":[
+     {
+       "degree":"ssc",
+       "school":"svjp",
+       "data":["2013","80%"]
+     },
+       {
+         "degree":"intermediate",
+         "school":"sree chaitanya",
+         "data":["2015","94%"]
+       },
+         {
+           "degree":"graduation",
+           "school":"sree vidyanikethan",
+           "data":["2019","80%"]
+         }
+       ],
+       "skills":[
+               {
+                 "name":"operating systems",
+                 "info":["windows","fedora","ubuntu","redhat"]
+
+               },
+               {
+               "name":"languaues",
+               "info":["c","c++","java"]
+             },
+             {
+             "name":"databases",
+             "info":["oracle","mysql"]
+           },
+           {
+           "name":"web tecnologies",
+           "info":["html","xml"]
+         },
+         {
+         "name":"frameworks",
+         "info":["bootstrap","net"]
+       }
+       ]
+}

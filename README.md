@@ -1,1 +1,1 @@
-# svec_resume
+# resume-svec
